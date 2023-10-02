@@ -1,2 +1,2 @@
-# Discrete-Optimization
-My solutions to assignments from Discrete Optimization course. I will later give context for pages that are difficult to interpret.
+# Discrete-Optimization (Spring 2022)
+My solutions to assignments from Discrete Optimization course. I apologize in advance for parts that are difficult to interpret, and I aim to organize in the future.
